@@ -56,5 +56,5 @@
 HTML 언어에서는 `<blockquote>`요소를 사용하여 인용절을 구조화한다.
 
 
->"Design is all, all is design"
+>"Design is all, all is design"<br>
 >"Learn by Doing"

@@ -58,3 +58,11 @@ HTML 언어에서는 `<blockquote>`요소를 사용하여 인용절을 구조화
 
 >"Design is all, all is design"<br>
 >"Learn by Doing"
+
+
+### 표
+Job Type | Role
+--- | ---
+Planner  | Plan
+Designer | Design
+Developer | Develop

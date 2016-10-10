@@ -41,3 +41,9 @@
 1. item1
 1. item2
 1. item3
+
+### 이미지
+``` html
+<img src="http://m1.daumcdn.net/cfile233/R400x0/260F334153C1CE18112E63" alt="정신차려" />
+```
+![정신차려](http://m1.daumcdn.net/cfile233/R400x0/260F334153C1CE18112E63)

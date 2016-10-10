@@ -1,5 +1,10 @@
 # irisjiyoung.github.io
 
+---
+# TODO
+- [x] Study Markdown
+- [ ] make `index.html` 
+
 ### 제목
 ```html
 	<h1>h1</h1>

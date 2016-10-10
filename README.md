@@ -52,9 +52,9 @@
 
 
 ### 인용 구문 
-
 인용절은 보통 들여쓰기를 통해 사용자에게 일반 문장과 구분해준다.<br>
-HTML 언어에서는 <blockquote>요소를 사용하여 인용절을 구조화한다.
+HTML 언어에서는 `<blockquote>`요소를 사용하여 인용절을 구조화한다.
+
 
 >"Design is all, all is design"
 >"Learn by Doing"
